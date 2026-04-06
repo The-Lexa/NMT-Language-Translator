@@ -44,7 +44,7 @@ In this project, I address the linguistic complexities of Telugu—an agglutinat
 **ALEX** – AI & NLP Engineer  
 *Focusing on LLMs, RAG, and Production-Grade AI Systems.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/thelexa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/thelexa)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/The-Lexa)
 
 
